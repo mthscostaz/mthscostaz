@@ -1,4 +1,6 @@
+````md
 <h1 align="center">Matheus Costa</h1>
+
 <h3 align="center">
 Desenvolvedor em formação | HTML | CSS | JavaScript | Python | IA aplicada
 </h3>
@@ -57,7 +59,9 @@ const matheusCosta = {
   metodo: "Aprender criando projetos reais do zero",
   objetivo: "Construir portfólio, evoluir como desenvolvedor e criar soluções digitais"
 };
+```
 
+---
 
 ## 📫 Contato
 
@@ -69,3 +73,10 @@ const matheusCosta = {
     <img src="https://img.shields.io/badge/INSTAGRAM-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  Aprendendo programação, construindo projetos e evoluindo um commit por vez.
+</p>
+````
