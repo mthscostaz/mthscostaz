@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Matheus Costa</h1>
 
 <h3 align="center">
