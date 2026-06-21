@@ -58,4 +58,3 @@ const matheusCosta = {
   objetivo: "Construir portfólio, evoluir como desenvolvedor e criar soluções digitais"
 };
 
-<p align="center"> <a href="mailto:matheuscostadevs@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/mthscostaz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-2563EB?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
