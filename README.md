@@ -74,9 +74,3 @@ const matheusCosta = {
   </a>
 </p>
 
----
-
-<p align="center">
-  Aprendendo programação, construindo projetos e evoluindo um commit por vez.
-</p>
-````
