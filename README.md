@@ -12,19 +12,18 @@ Meu foco é aprender desenvolvimento web do jeito certo, entendendo o código, p
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 - 🇧🇷 Baseado em São Paulo, Brasil  
 - 💻 Desenvolvedor em formação  
-- 🌐 Estudando HTML, CSS e JavaScript para desenvolvimento web  
-- 🐍 Aprendendo Python para lógica, automações e projetos práticos  
+- 🌐 Estudando HTML, CSS e JavaScript para desenvolvimento web   
 - 🤖 Usando IA e VibeCode como apoio para estudar, construir e revisar código  
 - 🧠 Focado em aprender programação de verdade, não apenas copiar respostas prontas  
 - 🚀 Construindo meu GitHub como portfólio de evolução, prática e projetos reais  
 
 ---
 
-## ⚡ Tecnologias em aprendizado
+## Tecnologias em aprendizado
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
@@ -32,7 +31,7 @@ Meu foco é aprender desenvolvimento web do jeito certo, entendendo o código, p
 
 ---
 
-## 🧭 Minha jornada como desenvolvedor
+## Minha jornada como desenvolvedor
 
 Atualmente estou criando uma base sólida nos fundamentos antes de avançar para frameworks, backend, banco de dados e aplicações mais completas com IA.
 
