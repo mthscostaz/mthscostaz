@@ -1,67 +1,61 @@
-
 <h1 align="center">Matheus Costa</h1>
 
-<h3 align="center">
-Desenvolvedor em formação | HTML | CSS | JavaScript | Python | IA aplicada
-</h3>
+<h3 align="center">Desenvolvedor Full Stack em formação | HTML · CSS · JavaScript · Python · IA aplicada</h3>
 
 <p align="center">
-Construindo minha base em programação com projetos reais, GitHub e VibeCode.
-Meu foco é aprender desenvolvimento web do jeito certo, entendendo o código, praticando lógica e usando IA como apoio para evoluir mais rápido.
+Construindo minha base rumo ao Full Stack com projetos reais, GitHub e VibeCode.<br>
+Foco em aprender desenvolvimento web do jeito certo — entendendo o código, praticando lógica e usando IA como apoio para evoluir mais rápido.
 </p>
 
 ---
 
-## Sobre mim
+### 🚀 Sobre mim
 
-- 🇧🇷 Baseado em São Paulo, Brasil  
-- 💻 Desenvolvedor em formação  
-- 🌐 Estudando HTML, CSS e JavaScript para desenvolvimento web   
-- 🤖 Usando IA e VibeCode como apoio para estudar, construir e revisar código  
-- 🧠 Focado em aprender programação de verdade, não apenas copiar respostas prontas  
-- 🚀 Construindo meu GitHub como portfólio de evolução, prática e projetos reais  
+- 🇧🇷 Baseado em São Paulo, Brasil
+- 🎯 Em formação para me tornar **Desenvolvedor Full Stack**
+- 🌐 Estudando HTML, CSS e JavaScript com foco em front-end sólido
+- 🐍 Aprendendo Python como base para o back-end
+- 🤖 Usando IA e VibeCode como apoio para estudar, construir e revisar código — nunca como atalho
+- 🧠 Focado em aprender programação de verdade: entender o "porquê", não só copiar respostas prontas
+- 📦 Já entreguei um projeto real (landing page completa para negócio local) e construindo meu GitHub como portfólio de evolução
+- 🔭 Próximo passo: aprofundar em back-end, banco de dados e frameworks modernos até fechar o ciclo Full Stack
 
 ---
 
-## Tecnologias em aprendizado
+### 🛠️ Tecnologias em aprendizado
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-## Minha jornada como desenvolvedor
+### 📈 Minha jornada como desenvolvedor
 
-Atualmente estou criando uma base sólida nos fundamentos antes de avançar para frameworks, backend, banco de dados e aplicações mais completas com IA.
+Atualmente estou construindo uma base sólida nos fundamentos (HTML, CSS, JavaScript e lógica de programação) antes de avançar para frameworks, back-end, banco de dados e aplicações mais completas com IA.
 
-Meu objetivo é aprender criando, errando, corrigindo e documentando cada etapa.
+Já apliquei o que aprendi em um projeto real — uma landing page completa para um negócio local — e sigo evoluindo criando, errando, corrigindo e documentando cada etapa.
+
+Meu objetivo é chegar a Full Stack com uma base técnica de verdade, não só saber "montar" projetos com ajuda de IA, mas entender profundamente o que está por trás de cada linha de código.
 
 ```js
 const matheusCosta = {
-  status: "Desenvolvedor em formação",
+  status: "Desenvolvedor Full Stack em formação",
   foco: [
-    "Desenvolvimento Web",
+    "Fundamentos de Desenvolvimento Web",
     "Lógica de Programação",
     "Python",
     "Git e GitHub",
-    "IA aplicada",
-    "VibeCode"
+    "IA aplicada ao desenvolvimento"
   ],
-  estudandoAgora: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "GitHub"
+  proximoPasso: [
+    "Back-end",
+    "Banco de Dados",
+    "Frameworks modernos"
   ],
-  metodo: "Aprender criando projetos reais do zero",
-  objetivo: "Construir portfólio, evoluir como desenvolvedor e criar soluções digitais"
+  metodo: "aprender fazendo, com projetos reais"
 };
 ```
-
----
-
 ## 📫 Contato
 
 <p align="center">
