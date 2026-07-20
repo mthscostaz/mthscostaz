@@ -9,16 +9,16 @@ Foco em aprender desenvolvimento web do jeito certo — entendendo o código, pr
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - 🇧🇷 Baseado em São Paulo, Brasil
-- 🎯 Em formação para me tornar **Desenvolvedor Full Stack**
-- 🌐 Estudando HTML, CSS e JavaScript com foco em front-end sólido
-- 🐍 Aprendendo Python como base para o back-end
-- 🤖 Usando IA e VibeCode como apoio para estudar, construir e revisar código — nunca como atalho
-- 🧠 Focado em aprender programação de verdade: entender o "porquê", não só copiar respostas prontas
-- 📦 Já entreguei um projeto real (landing page completa para negócio local) e construindo meu GitHub como portfólio de evolução
-- 🔭 Próximo passo: aprofundar em back-end, banco de dados e frameworks modernos até fechar o ciclo Full Stack
+-  Em formação para me tornar **Desenvolvedor Full Stack**
+-  Estudando HTML, CSS e JavaScript com foco em front-end sólido
+-  Aprendendo Python como base para o back-end
+-  Usando IA e VibeCode como apoio para estudar, construir e revisar código — nunca como atalho
+-  Focado em aprender programação de verdade: entender o "porquê", não só copiar respostas prontas
+-  Já entreguei um projeto real (landing page completa para negócio local) e construindo meu GitHub como portfólio de evolução
+-  Próximo passo: aprofundar em back-end, banco de dados e frameworks modernos até fechar o ciclo Full Stack
 
 ---
 
@@ -30,7 +30,7 @@ Foco em aprender desenvolvimento web do jeito certo — entendendo o código, pr
 
 ---
 
-### 📈 Minha jornada como desenvolvedor
+###  Minha jornada como desenvolvedor
 
 Atualmente estou construindo uma base sólida nos fundamentos (HTML, CSS, JavaScript e lógica de programação) antes de avançar para frameworks, back-end, banco de dados e aplicações mais completas com IA.
 
