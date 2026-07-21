@@ -1,63 +1,48 @@
 <h1 align="center">Matheus Costa</h1>
-
-<h3 align="center">Desenvolvedor Full Stack em formação | HTML · CSS · JavaScript · Python · IA aplicada</h3>
-
+<h3 align="center">Full Stack Developer in training | HTML · CSS · JavaScript · Python · Applied AI</h3>
 <p align="center">
-Construindo minha base rumo ao Full Stack com projetos reais, GitHub e VibeCode.<br>
-Foco em aprender desenvolvimento web do jeito certo — entendendo o código, praticando lógica e usando IA como apoio para evoluir mais rápido.
+Building my foundation toward Full Stack development with real projects, GitHub, and VibeCode.<br>
+Focused on learning web development the right way — understanding the code, practicing logic, and using AI as support to grow faster.
 </p>
-
 ---
-
-### Sobre mim
-
-- 🇧🇷 Baseado em São Paulo, Brasil
--  Em formação para me tornar **Desenvolvedor Full Stack**
--  Estudando HTML, CSS e JavaScript com foco em front-end sólido
--  Aprendendo Python como base para o back-end
--  Usando IA e VibeCode como apoio para estudar, construir e revisar código — nunca como atalho
--  Focado em aprender programação de verdade: entender o "porquê", não só copiar respostas prontas
--  Já entreguei um projeto real (landing page completa para negócio local) e construindo meu GitHub como portfólio de evolução
--  Próximo passo: aprofundar em back-end, banco de dados e frameworks modernos até fechar o ciclo Full Stack
-
+### About me
+- 🇧🇷 Based in São Paulo, Brazil
+- Training to become a **Full Stack Developer**
+- Studying HTML, CSS, and JavaScript with a focus on solid front-end skills
+- Learning Python as a foundation for back-end development
+- Using AI and VibeCode as support to study, build, and review code — never as a shortcut
+- Focused on learning programming for real: understanding the "why," not just copying ready-made answers
+- Already delivered a real project (a complete landing page for a local business) and building my GitHub as a portfolio of my progress
+- Next step: dive deeper into back-end, databases, and modern frameworks to complete the Full Stack cycle
 ---
-
-### 🛠️ Tecnologias em aprendizado
-
+### 🛠️ Technologies I'm learning
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
-
 ---
-
-###  Minha jornada como desenvolvedor
-
-Atualmente estou construindo uma base sólida nos fundamentos (HTML, CSS, JavaScript e lógica de programação) antes de avançar para frameworks, back-end, banco de dados e aplicações mais completas com IA.
-
-Já apliquei o que aprendi em um projeto real — uma landing page completa para um negócio local — e sigo evoluindo criando, errando, corrigindo e documentando cada etapa.
-
-Meu objetivo é chegar a Full Stack com uma base técnica de verdade, não só saber "montar" projetos com ajuda de IA, mas entender profundamente o que está por trás de cada linha de código.
-
+### My journey as a developer
+I'm currently building a solid foundation in the fundamentals (HTML, CSS, JavaScript, and programming logic) before moving on to frameworks, back-end, databases, and more complete applications with AI.
+I've already applied what I've learned in a real project — a complete landing page for a local business — and I keep evolving by building, making mistakes, fixing them, and documenting each step.
+My goal is to reach Full Stack level with a real technical foundation — not just knowing how to "assemble" projects with AI help, but truly understanding what's behind every line of code.
 ```js
 const matheusCosta = {
-  status: "Desenvolvedor Full Stack em formação",
-  foco: [
-    "Fundamentos de Desenvolvimento Web",
-    "Lógica de Programação",
+  status: "Full Stack Developer in training",
+  focus: [
+    "Web Development Fundamentals",
+    "Programming Logic",
     "Python",
-    "Git e GitHub",
-    "IA aplicada ao desenvolvimento"
+    "Git and GitHub",
+    "AI applied to development"
   ],
-  proximoPasso: [
+  nextStep: [
     "Back-end",
-    "Banco de Dados",
-    "Frameworks modernos"
+    "Databases",
+    "Modern frameworks"
   ],
-  metodo: "aprender fazendo, com projetos reais"
+  method: "learning by doing, with real projects"
 };
 ```
-## 📫 Contato
-
+## 📫 Contact
 <p align="center">
   <a href="mailto:matheuscostadevs@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -66,4 +51,3 @@ const matheusCosta = {
     <img src="https://img.shields.io/badge/INSTAGRAM-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
